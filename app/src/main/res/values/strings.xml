@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Map It! (by Richard)</string>
+    <string name="error_title">Error!</string>
+    <string name="missing_street_number">Please enter a street number</string>
+    <string name="missing_street_name">Please enter a street name</string>
+    <string name="missing_city">Please enter a city</string>
+    <string name="missing_state">Please enter a state</string>
+    <string name="dialogue_title">Are you sure?</string>
+    <string name="dialogue_confirm">Do you really want to clear the form?</string>
+</resources>
